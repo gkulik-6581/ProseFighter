@@ -1,0 +1,12 @@
+/Users/Greg/Google Drive/Coding/My Projects/ProseFighter/ProseFighter/obj/Debug/netcoreapp3.1/ProseFighter.csprojAssemblyReference.cache
+/Users/Greg/Google Drive/Coding/My Projects/ProseFighter/ProseFighter/obj/Debug/netcoreapp3.1/ProseFighter.AssemblyInfoInputs.cache
+/Users/Greg/Google Drive/Coding/My Projects/ProseFighter/ProseFighter/obj/Debug/netcoreapp3.1/ProseFighter.AssemblyInfo.cs
+/Users/Greg/Google Drive/Coding/My Projects/ProseFighter/ProseFighter/obj/Debug/netcoreapp3.1/ProseFighter.csproj.CoreCompileInputs.cache
+/Users/Greg/Google Drive/Coding/My Projects/ProseFighter/ProseFighter/bin/Debug/netcoreapp3.1/ProseFighter.deps.json
+/Users/Greg/Google Drive/Coding/My Projects/ProseFighter/ProseFighter/bin/Debug/netcoreapp3.1/ProseFighter.runtimeconfig.json
+/Users/Greg/Google Drive/Coding/My Projects/ProseFighter/ProseFighter/bin/Debug/netcoreapp3.1/ProseFighter.runtimeconfig.dev.json
+/Users/Greg/Google Drive/Coding/My Projects/ProseFighter/ProseFighter/bin/Debug/netcoreapp3.1/ProseFighter.dll
+/Users/Greg/Google Drive/Coding/My Projects/ProseFighter/ProseFighter/bin/Debug/netcoreapp3.1/ProseFighter.pdb
+/Users/Greg/Google Drive/Coding/My Projects/ProseFighter/ProseFighter/obj/Debug/netcoreapp3.1/ProseFighter.dll
+/Users/Greg/Google Drive/Coding/My Projects/ProseFighter/ProseFighter/obj/Debug/netcoreapp3.1/ProseFighter.pdb
+/Users/Greg/Google Drive/Coding/My Projects/ProseFighter/ProseFighter/obj/Debug/netcoreapp3.1/ProseFighter.genruntimeconfig.cache
